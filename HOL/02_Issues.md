@@ -79,7 +79,7 @@ A clear and concise description of what the bug is.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5276337/204150422-9c0d0aaf-f1aa-4b5a-ba66-6876f1636495.png">
 
-- __Optional:__ Only if time permits: create a custom issue template. See [this template](https://github.com/wulfland/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/custom.yml) as an example. Also configure that blank issues are not allowed and add an additional URL to the `New issue` dialog ([this example](https://github.com/wulfland/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/config.yml) should help you getting started).
+- __Optional:__ Only if time permits: create a custom issue template. See [this template](https://github.com/lfraileorg/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/custom.yml) as an example. Also configure that blank issues are not allowed and add an additional URL to the `New issue` dialog ([this example](https://github.com/lfraileorg/AccelerateDevOps/blob/main/.github/ISSUE_TEMPLATE/config.yml) should help you getting started).
 
 ## Summary
 
