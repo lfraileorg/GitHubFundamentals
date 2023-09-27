@@ -15,7 +15,7 @@ In this part, you will learn and practice how to collaborate on Ideas. The part 
 
 ## 🗒️ Wikis and 🌐 Pages
 
-GitHub contains a wiki in each repository (see [this example](https://github.com/lfraileorg/AccelerateDevOps/wiki)). The wiki has a custom header and footer.
+GitHub contains a wiki in each repository (see [this example](https://github.com/wulfland/AccelerateDevOps/wiki)). The wiki has a custom header and footer.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5276337/204132297-8fea2ca1-53e9-43a1-8aff-267fb30d12fc.png">
 
@@ -27,7 +27,7 @@ GitHub pages is a static webpage that can diplay files from the repository as a 
 
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/5276337/204132589-72544d3e-b291-4cef-a03e-502058bc750c.png">
 
-It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages. See [this example](https://github.com/lfraileorg/AccelerateDevOps/tree/main/docs) that gets rendered as [this web site](https://wulfland.github.io/AccelerateDevOps/).
+It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages. See [this example](https://github.com/wulfland/AccelerateDevOps/tree/main/docs) that gets rendered as [this web site](https://wulfland.github.io/AccelerateDevOps/).
 
 ## ✍️ GitHub Issues
 
@@ -35,7 +35,7 @@ It can use [Jekyll](https://jekyllrb.com/) to render markdown files as web pages
 
 <img width="636" alt="image" src="https://user-images.githubusercontent.com/5276337/204133374-7b3e0ef4-24a1-4002-8a9b-f613d33ddd95.png">
 
-See [this issue](https://github.com/lfraileorg/AccelerateDevOps/issues/436) for more details.
+See [this issue](https://github.com/wulfland/AccelerateDevOps/issues/436) for more details.
 
 - [ ] Issue templates
 - [ ] Nesting Issues
